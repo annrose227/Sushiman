@@ -104,24 +104,12 @@
 }
 
 .trending-sushi .trending__image {
-  background-image: url("../../assets/assets/japanese_sushi.png");
+  background-image: url("../../assets/japanese_sushi.png");
 }
 
-.trending-drinks .trending__image {
-  background-image: url("../../assets/assets/japanese_drinks.png");
+.trending-drink .trending__image {
+  background-image: url("../../assets/japanese_drinks.png");
 }
-
-/* .trending__discover {
-  position: absolute;
-  top: 44%;
-  left: 44%;
-  z-index: 1;
-  width: 160px;
-  height: 160px;
-  background-color: var(--secondary-color);
-  border-radius: 100%;
-  
-} */
 
 .trending__image img {
   width: 254px;
